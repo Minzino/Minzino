@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Minje, I am a network engineer interested in the Cloud computing.</div>  
+### <div align="center">I'm MJ</div>  
   
 
-- 🌱 I’m currently learning Docker & Kubernetes  
+- 🌱 I’m currently learning java 
   
 
 - 🧗‍♂️🚴I like climbing and riding a bicycle.  
