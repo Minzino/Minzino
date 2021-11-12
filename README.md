@@ -6,7 +6,7 @@
 ### <div align="center">I'm MJ</div>  
   
 
-- 🌱 I’m currently learning java 
+- 🌱 
   
 
 - 🧗‍♂️🚴I like climbing and riding a bicycle.  
