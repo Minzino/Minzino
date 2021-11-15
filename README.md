@@ -3,37 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm MJ</div>  
+### <div align="center">I'm MJ</div> 
   
-
-- 🌱 
-  
-
-- 🧗‍♂️🚴I like climbing and riding a bicycle.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-</div>
-
-</td></tr></table>  
 
 <br/>  
 
