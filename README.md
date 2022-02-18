@@ -4,7 +4,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm Meenzino</div> 
+### <div align="center">웹 백엔드를 공부하고 있는 MJ입니다.</div> 
   
 
 <br/>  
