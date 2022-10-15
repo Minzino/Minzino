@@ -1,10 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinzino&count_bg=%230AEEF7&title_bg=%23555555&icon=actigraph.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-### <div align="center">웹 백엔드를 공부하고 있는 MJ입니다.</div> 
+### <div align="center">백엔드 개발자를 준비 중인 취준생입니다!🧑‍💻 </div> 
   
 
 <br/>  
