@@ -14,7 +14,11 @@
 <div align="center">
 <a href="https://linkedin.com/in/watermelon-cider" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>
+
+<a href="https://meenzino.notion.site/Meenzino-Tech-Blog-ad05c0319c8a49b2bf5b06474c737761" target="_blank">
+<img src=https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white alt=notion style="margin-bottom: 5px;"/></a>
+
 </div>  
   
 
