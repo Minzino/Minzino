@@ -1,11 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinzino&count_bg=%230AEEF7&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 # Song Minje (Minzino)
 
 Cloud/Platform Engineer focused on Kubernetes automation, observability, and GPU workloads. Based in Seoul, Korea.
 
 - Current: Cloud Expert Team (PaaS), Okestro
-- Previously: DevOps at AdenaSoft; backend engineer (Java Spring Boot)
+- Previously: DevOps at AdenaSoft; Backend engineer (Java Spring Boot)
 - Open to: Kubernetes Platform, Serverless Platform, DBaaS/Observability, SRE
 
 ## Highlights
@@ -15,7 +13,7 @@ Cloud/Platform Engineer focused on Kubernetes automation, observability, and GPU
 - Built OpenSearch log pipeline adopted by backend teams for diagnostics
 - Built MultiNIC controller/agent for OpenStack Kubernetes
 
-## Focus Areas
+## Current Focus
 
 - Cluster lifecycle automation: Ansible, kubeadm/kubespray, Cluster API
 - Multi-cluster observability: Prometheus, Thanos, Loki, Grafana, MinIO
@@ -28,7 +26,7 @@ Cloud/Platform Engineer focused on Kubernetes automation, observability, and GPU
 - [kubespray-openstack-ha](https://github.com/Minzino/kubespray-openstack-ha): HA Kubernetes on OpenStack, Octavia LB integration
 - [multinic](https://github.com/Minzino/multinic), [multinic-agent](https://github.com/Minzino/multinic-agent), [multinic-improved](https://github.com/Minzino/multinic-improved): Go controller/agent suite for OpenStack multi-NIC
 - [ansible-k8s](https://github.com/Minzino/ansible-k8s): Kubernetes automation playbooks
-- [kind-guide](https://github.com/Minzino/kind-guide): tooling and references
+- [kind-guide](https://github.com/Minzino/kind-guide): Tooling and references
 
 ## Tech Stack
 
@@ -48,7 +46,7 @@ Cloud/Platform Engineer focused on Kubernetes automation, observability, and GPU
 
 - Korean (native), English (reading), Japanese (N2 in progress)
 
-## Connect with me
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/watermelon-cider)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://meenzino.notion.site/Tech-Blog-ad05c0319c8a49b2bf5b06474c737761)
