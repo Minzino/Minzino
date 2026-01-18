@@ -2,8 +2,6 @@
 
 Cloud/Platform Engineer focused on Kubernetes automation, observability, and GPU workloads. Based in Seoul, Korea.
 
-> Zen: simplify systems, automate toil, observe reality.
-
 - Current: Cloud Expert Team (PaaS), Okestro
 - Previously: DevOps at AdenaSoft; Backend engineer (Java Spring Boot)
 - Open to: Kubernetes Platform, Serverless Platform, DBaaS/Observability, SRE
