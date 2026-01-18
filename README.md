@@ -2,6 +2,8 @@
 
 Cloud/Platform Engineer focused on Kubernetes automation, observability, and GPU workloads. Based in Seoul, Korea.
 
+> Zen: simplify systems, automate toil, observe reality.
+
 - Current: Cloud Expert Team (PaaS), Okestro
 - Previously: DevOps at AdenaSoft; Backend engineer (Java Spring Boot)
 - Open to: Kubernetes Platform, Serverless Platform, DBaaS/Observability, SRE
@@ -18,20 +20,17 @@ Cloud/Platform Engineer focused on Kubernetes automation, observability, and GPU
 - Cluster lifecycle automation: Ansible, kubeadm/kubespray, Cluster API
 - Multi-cluster observability: Prometheus, Thanos, Loki, Grafana, MinIO
 - GPU enablement: NVIDIA GPU Operator, MIG/time-slicing, DCGM dashboards
-- Storage and networking: Rook Ceph, dual-network patterns, Cilium, OpenStack
-- Autoscaling and reliability: HPA/VPA, Karpenter evaluation, RCA for scaling issues
 
 ## Selected Work
 
 - [kubespray-openstack-ha](https://github.com/Minzino/kubespray-openstack-ha): HA Kubernetes on OpenStack, Octavia LB integration
 - [multinic](https://github.com/Minzino/multinic), [multinic-agent](https://github.com/Minzino/multinic-agent), [multinic-improved](https://github.com/Minzino/multinic-improved): Go controller/agent suite for OpenStack multi-NIC
 - [ansible-k8s](https://github.com/Minzino/ansible-k8s): Kubernetes automation playbooks
-- [kind-guide](https://github.com/Minzino/kind-guide): Tooling and references
 
 ## Tech Stack
 
-- Languages: Go, Python (FastAPI), Java, Bash, HCL, YAML/Helm
-- Platforms: Kubernetes, OpenStack, AWS, vSphere
+- Languages: Go, Python (FastAPI), Bash, HCL, YAML/Helm, Java (Spring Boot, prior)
+- Platforms: Kubernetes, OpenStack, AWS
 - Observability: Prometheus, Thanos, Loki, Grafana, CloudWatch
 - IaC/Automation: Terraform, Ansible, Cluster API
 - CI/CD: GitHub Actions, GitLab CI
